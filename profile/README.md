@@ -13,4 +13,7 @@
 
 ### Infrastructure
 
-Our infrastructure is public: anyone can check out what runs our projects in the [waifu-devs Railway project](https://railway.com/project/c1d0e00f-7c4c-408f-8422-41cd680bc304).
+Our infrastructure is public: anyone can check out what runs our projects in these Railway projects:
+
+- [waifu-devs](https://railway.com/project/c1d0e00f-7c4c-408f-8422-41cd680bc304): the community site at [www.waifu.dev](https://www.waifu.dev), its API and analytics.
+- [fuwa](https://railway.com/project/380ce29d-aa58-46a3-b54f-b8e571dd8702): [fuwa.chat](https://fuwa.chat), the fuwa instance we host.
